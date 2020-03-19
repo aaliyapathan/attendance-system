@@ -1,0 +1,13 @@
+.container {
+    padding: 16px;
+  }
+  
+
+button {
+    background-color: rgb(94, 76, 175);
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+   
+    width: 50%;
+  }
